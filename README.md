@@ -56,7 +56,7 @@ Hyperparameter Tuning: Grid search is used to tune the hyperparameters of the Lo
 
 Key Findings:
 
-The Logistic Regression model achieved an accuracy score of [insert accuracy score].
+The Logistic Regression model achieved an accuracy score of [0.7222222222222222].
 
 The model performed well in terms of precision, recall, and F1 score.
 
